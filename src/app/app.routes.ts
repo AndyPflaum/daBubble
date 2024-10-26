@@ -36,7 +36,7 @@ export const routes: Routes = [
   { 
     path: 'main', component: MainComponent, 
     children: [
-      { path: '', redirectTo: 'group-chat/pEylXqZMW1zKPIC0VDXL', pathMatch: 'full' }, 
+      { path: '', redirectTo: 'group-chat/VkKHGhLYYoYbXuW5PPN2', pathMatch: 'full' }, 
       
       { path: 'new-message', component: NewMessageComponent }, 
       {

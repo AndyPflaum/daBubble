@@ -114,7 +114,7 @@
     border-bottom-right-radius: 50px;
     transition: background-color 0.3s ease;
     font-size: 18px;
-    width: max-content;
+    width: auto;
 
     .message-content:hover & {
         background-color: white;
